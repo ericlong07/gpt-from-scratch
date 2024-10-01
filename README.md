@@ -3,7 +3,7 @@ Followed blog post: [GPT in 60 Lines of Numpy](https://jaykmody.com/blog/gpt-fro
 
 ---
 
-`SmolGPT` is an unnecessarily tiny and minimal implementation of [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) in plain [NumPy](https://numpy.org). The entire forward pass code is [40 lines of code](https://github.com/jaymody/SmolGPT/blob/main/gpt2_pico.py#L3-L41).
+`SmolGPT` is an unnecessarily tiny and minimal implementation of [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) in plain [NumPy](https://numpy.org). The entire forward pass code is [40 lines of code](https://github.com/ericlong07/gpt-from-scratch/blob/main/gpt2_pico.py#L3-L41).
 
 SmolGPT features:
 * Fast? ❌ Nah, SmolGPT is megaSLOW 🐌
